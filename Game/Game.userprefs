@@ -1,12 +1,9 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Sacha Asset\Disparition.js">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Exit.js">
     <Files>
-      <File FileName="Assets\Sacha Asset\DoorMechanic.js" Line="10" Column="3" />
-      <File FileName="Assets\Sacha Asset\Button.js" Line="15" Column="1" />
-      <File FileName="Assets\Sacha Asset\RotateDoor.js" Line="1" Column="13" />
-      <File FileName="Assets\Sacha Asset\StopRotation.js" Line="16" Column="1" />
-      <File FileName="Assets\Sacha Asset\Disparition.js" Line="15" Column="54" />
+      <File FileName="Assets\Exit.js" Line="13" Column="21" />
+      <File FileName="Assets\Sacha Asset\Start.js" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

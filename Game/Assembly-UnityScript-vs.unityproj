@@ -49,8 +49,11 @@
      <Compile Include="Assets\Sacha Asset\Button.js" />
      <Compile Include="Assets\Sacha Asset\Disparition.js" />
      <Compile Include="Assets\Sacha Asset\DoorMechanic.js" />
+     <Compile Include="Assets\Sacha Asset\Exit.js" />
      <Compile Include="Assets\Sacha Asset\RotateDoor.js" />
+     <Compile Include="Assets\Sacha Asset\Start.js" />
      <Compile Include="Assets\Sacha Asset\StopRotation.js" />
+     <Compile Include="Assets\Sacha Asset\TroneScript.js" />
  <Reference Include="Assembly-UnityScript-firstpass">
  <HintPath>C:/Users/Sacha/Desktop/GameDevJam/Game/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
  </Reference>

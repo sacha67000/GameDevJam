@@ -14,6 +14,7 @@ function OnTriggerStay (other : Collider)
 			this.gameObject.renderer.material.color = Color.green;
 			GameObject.Find("Door3").GetComponent("RotateDoor").work = 0;
 			GameObject.Find("Door3").GetComponent(CapsuleCollider).enabled = false;
+
 		}
 		else
 		{
